@@ -1,0 +1,52 @@
+# Ejercicio Factorial
+
+Este proyecto es una calculadora de factorial construida con HTML, PHP y CSS.
+
+## 🧠 Descripción
+
+El usuario ingresa un número en un formulario y el sistema calcula su factorial, mostrando tanto los pasos del cálculo como el resultado final.
+
+---
+
+## ✨ Características
+
+- Interfaz simple en HTML con un formulario de entrada.
+- Cálculo del factorial usando PHP en el mismo archivo.
+- Estilos CSS para centrar y organizar visualmente el contenido.
+- Muestra el número ingresado, el desarrollo del cálculo y el resultado.
+
+---
+
+## 🚀 ¿Cómo usarlo?
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/JoseRaulVerde/ejercicio_factorial.git
+   cd ejercicio_factorial
+   ```
+
+2. Copia el proyecto en la carpeta `htdocs` de tu servidor local (XAMPP, WAMP, etc.).
+
+3. Abre en tu navegador:
+
+   ```
+   http://localhost/ejercicio_factorial/
+   ```
+
+4. Ingresa un número entero positivo en el formulario y presiona “Calcular”.
+
+---
+
+## 📁 Archivos principales
+
+- `index.php` → archivo principal con formulario y lógica PHP para el cálculo factorial.
+- `styles/index.css` → hoja de estilos para centrar y estilizar el contenido.
+
+---
+
+## 📌 Rama principal
+
+Todos los cambios se encuentran en la rama `main`. Puedes verla aquí:
+
+👉 [Ver rama main](https://github.com/JoseRaulVerde/ejercicio_factorial)
